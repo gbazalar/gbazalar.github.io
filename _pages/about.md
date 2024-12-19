@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Showcasing my projects, research, and achievements in Electrical Engineering."
+title: "Gabriel Bazalar Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
