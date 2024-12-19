@@ -28,7 +28,7 @@ author:
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
-  gbazalar@purdue.edu            : "gbazalar@purdue.edu" 
+  email            : "gbazalar@purdue.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : gbazalar
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
