@@ -47,11 +47,4 @@ About Me 🙋‍♂🇵🇪
 =====
 <p></p>
 
-<p style="padding-left: 40px;"> 🎧 EDM music and Spanish Rock </p>
-
-<p style="padding-left: 40px;"> 🎸 Acoustic Guitar and Piano  </p>
-
-<p style="padding-left: 40px;"> 🎾 Tennis, Soccer, and Weightlifting </p>
- 
-<p style="padding-left: 40px;"> 🕹️ Sim-Racing, Moba, and Shooters </p>
-
+<p style="padding-left: 40px;"> 🎧 EDM music and Spanish Rock | 🎸 Acoustic Guitar and Piano | 🎾 Tennis, Soccer, and Weightlifting | 🕹️ Sim-Racing, Moba, and Shooters</p>
