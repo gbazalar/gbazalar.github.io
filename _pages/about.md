@@ -11,9 +11,12 @@ redirect_from:
 
 <p style="padding-left: 40px;"> 🔗 My interests are in Circuti Design, Embedded Systems, and Automatic Controls.</p>
 
-<p style="padding-left: 40px;"> 🤖 I’m currently the president and founder of the Latin Autonomous Projects Club <a href="https://www.linkedin.com/company/latin-autonomous-projects-club-laps/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7Vw3x9X2SUu6zPZP6j57gQ%3D%3D" target="_blank" rel="noopener noreferrer">LAPs</a>.</p>
+<p style="padding-left: 40px;"> 🤖 I’m currently the president and founder of the Latin Autonomous Projects Club <a href="https://www.linkedin.com/company/latin-autonomous-projects-club-laps/posts/?feedView=all" target="_blank" rel="noopener noreferrer">LAPs</a>.</p>
 
-<p style="padding-left: 40px;"> 🤝 My passion lies in bridging the physical and virtual worlds applying innovative technologies like AI or cutting-edge sensors.<br></p>
+<p style="padding-left: 40px;"> 🤝 My passion lies in bridging the physical and virtual worlds applying innovative technologies like AI or cutting-edge sensors.</p>
+
+<p style="padding-left: 40px;"> 🌐 Related websites: <a href="https://engineering.purdue.edu/SMARTLab/people/ptProfile?resource_id=311585&group_id=138211" target="_blank" rel="noopener noreferrer">SMART Lab</a> | <a href="https://engineering.purdue.edu/ECEA/Meet%20The%20Ambassadors" target="_blank" rel="noopener noreferrer">ECE Ambassadors</a><br></p>
+
 
   
 About Me 🙋‍♂🇵🇪
