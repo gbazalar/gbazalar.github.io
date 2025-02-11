@@ -9,13 +9,14 @@ redirect_from:
 <p></p>
 <p style="padding-left: 40px;"> 👨‍💻 I’m a Junior in Electrical Engineering at Purdue Univerity.</p>
 
-<p style="padding-left: 40px;"> 🔗 My interests are in Circuti Design, Embedded Systems, and Automatic Controls.</p>
+<p style="padding-left: 40px;"> 🔗 My interests are in Circuit Design, Embedded Systems, and Automatic Controls.</p>
 
 <p style="padding-left: 40px;"> 🤖 I’m currently the president and founder of the Latin Autonomous Projects Club <a href="https://www.linkedin.com/company/latin-autonomous-projects-club-laps/posts/?feedView=all" target="_blank" rel="noopener noreferrer">LAPs</a>.</p>
 
 <p style="padding-left: 40px;"> 🤝 My passion lies in bridging the physical and virtual worlds applying innovative technologies like AI or cutting-edge sensors.</p>
 
-<p style="padding-left: 40px;"> 🌐 Related websites: <a href="https://engineering.purdue.edu/SMARTLab/people/ptProfile?resource_id=311585&group_id=138211" target="_blank" rel="noopener noreferrer">SMART Lab</a> | <a href="https://engineering.purdue.edu/ECEA/Meet%20The%20Ambassadors" target="_blank" rel="noopener noreferrer">ECE Ambassadors</a><br></p>
+<p style="padding-left: 40px;"> 🌐 Related websites: <a href="https://sites.google.com/site/jagpurdue/Home?authuser=0" target="_blank" rel="noopener noreferrer"> Wireless Sensing Lab
+</a> | <a href="https://engineering.purdue.edu/SMARTLab/people/ptProfile?resource_id=311585&group_id=138211" target="_blank" rel="noopener noreferrer">SMART Lab</a> | <a href="https://engineering.purdue.edu/ECEA/Meet%20The%20Ambassadors" target="_blank" rel="noopener noreferrer">ECE Ambassadors</a><br></p>
 
 
   
